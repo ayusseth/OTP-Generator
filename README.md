@@ -128,3 +128,10 @@ Matches user input with stored OTP and clears after success.
 
 <h2 align="center">🔥 feature/f1 — Complete OTP System Delivered</h2>
 <p align="center">This branch contains ALL implementations you built.</p>
+<hr/>
+<h2 align="center">📸 Feature Preview</h2>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1YAWzeczPCoZsjieXLLKbJTEsBLhtUlLN" width="500"/>
+</p>
+
